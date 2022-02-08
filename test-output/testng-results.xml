@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="61826" started-at="2022-02-08T15:47:25 IST" finished-at="2022-02-08T15:48:27 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="61826" started-at="2022-02-08T15:47:25 IST" finished-at="2022-02-08T15:48:27 IST">
+      <class name="org.MiniProject_TestNG_Addactin.testNG_Adactin">
+        <test-method status="PASS" signature="login()[pri:0, instance:org.MiniProject_TestNG_Addactin.testNG_Adactin@315f43d5]" name="login" is-config="true" duration-ms="14359" started-at="2022-02-08T15:47:11 IST" finished-at="2022-02-08T15:47:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="booking()[pri:0, instance:org.MiniProject_TestNG_Addactin.testNG_Adactin@315f43d5]" name="booking" duration-ms="32009" started-at="2022-02-08T15:47:26 IST" finished-at="2022-02-08T15:47:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- booking -->
+        <test-method status="PASS" signature="booking2()[pri:0, instance:org.MiniProject_TestNG_Addactin.testNG_Adactin@315f43d5]" name="booking2" duration-ms="29602" started-at="2022-02-08T15:47:58 IST" finished-at="2022-02-08T15:48:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- booking2 -->
+        <test-method status="PASS" signature="signout()[pri:0, instance:org.MiniProject_TestNG_Addactin.testNG_Adactin@315f43d5]" name="signout" is-config="true" duration-ms="55" started-at="2022-02-08T15:48:28 IST" finished-at="2022-02-08T15:48:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signout -->
+      </class> <!-- org.MiniProject_TestNG_Addactin.testNG_Adactin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
